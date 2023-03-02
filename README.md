@@ -53,7 +53,7 @@ For example, to convert all images in the input directory to WebP format, with a
 * > Original Jpg image: **7.06 MB** (3888x2916) --> Converted to webp image: **39.71 KB** (800x600)
   
   
-By using this script to convert and resize images, we were able to achieve a significant reduction in file size, resulting in faster website load times and improved performance. In the example above, we reduced the size of 713 images from 181 MB to 23.3 MB, a reduction of approximately 87%. For example, we saw a reduction of 99% in file size for a 4000x2667 WebP image, going from 3.22 MB to just 32.41 KB (800x533). Similarly, a 7.06 MB JPEG image was reduced to 39.71 KB (800x600) when converted to WebP.
+By using this script to convert and resize images, we were able to achieve a significant reduction in file size, resulting in faster website load times and improved performance. In the example above, we reduced the size of 714 images from 181 MB to 23.3 MB, a reduction of approximately 87%. For example, we saw a reduction of 99% in file size for a 4000x2667 WebP image, going from 3.22 MB to just 32.41 KB (800x533). Similarly, a 7.06 MB JPEG image was reduced to 39.71 KB (800x600) when converted to WebP.
   
 Additionally, the processing time for the conversion and resizing of all 714 images in the above example was only 40 second. Making it an fast and efficient way to optimize your website's images with this script.
   
