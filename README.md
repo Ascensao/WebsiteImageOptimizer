@@ -1,6 +1,8 @@
 # Python Image Converter
 
-Python Image Converter is a Python script that converts images to WebP format. It supports JPG, JPEG, PNG, GIF, TIFF, JFIF and AVIF image formats. You can use it to quickly and easily convert your website's images to the WebP format. This conversion can result in significant file size reductions without sacrificing image quality, allowing your website to load faster and use less bandwidth.
+Python Image Converter is a Python script that converts images to WebP format. It supports JPG, JPEG, PNG, GIF, TIFF, JFIF and AVIF image formats. You can use it to quickly and easily convert your website's images to the WebP format. 
+
+This conversion can result in significant file size reductions without sacrificing image quality, allowing your website to load faster and use less bandwidth.
 
 **Note:** In our tests, we were able to reduce the file size of a folder of 714 images from 181 MB to 23.3 MB, resulting in an average **reduction of 87%**. The conversion process took approximately 40 seconds to complete.
 
@@ -49,6 +51,7 @@ For example, to convert all images in the input directory to WebP format, with a
 ### Single Image Examples
 * > Original Webp image: **3.22 MB** (4000x2667) **-->** Converted Webp image: **32.41 KB** (800x533)
 * > Original Jpg image: **7.06 MB** (3888x2916) --> Converted to webp image: **39.71 KB** (800x600)
+  
   
 By using this script to convert and resize images, we were able to achieve a significant reduction in file size, resulting in faster website load times and improved performance. In the example above, we reduced the size of 713 images from 181 MB to 23.3 MB, a reduction of approximately 87%. For example, we saw a reduction of 99% in file size for a 4000x2667 WebP image, going from 3.22 MB to just 32.41 KB (800x533). Similarly, a 7.06 MB JPEG image was reduced to 39.71 KB (800x600) when converted to WebP.
   
