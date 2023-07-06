@@ -1,4 +1,4 @@
-# Python Image Converter
+# Website Image Optimizer - Convert bulk images to webp formatt
 
 Python Image Converter is a Python script that converts images to WebP format. It supports JPG, JPEG, PNG, GIF, TIFF, JFIF and AVIF image formats. You can use it to quickly and easily convert your website's images to the WebP format. 
 
