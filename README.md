@@ -26,12 +26,13 @@ To run the script, you need:
 2. Execute the script with the following command:
  ```
  cd WebsiteImageOptimizer
+
  python main.py
  ```
 3. Follow the on-screen prompts to enter the source directory, output directory, maximum resolution (optional), and quality (optional).
 4. The script will automatically convert all images in the source directory to WebP format and save them in the output directory.
 
-If you leave all console prompt questions blank, the default settings will be:
+If you leave all console prompt questions in blank, the default settings will be:
 - Initial Folder:  `/images_sample`
 - Converted Images Folder: `/images_sample_cleaned`
 - Image Quality: `85`
