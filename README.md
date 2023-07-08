@@ -1,11 +1,14 @@
-# Website Image Optimizer - Convert Bulk Images to WebP Format
+# Website Image Optimizer
+
+###  Convert bulk images to WebP Format
 
 ## About the Project
+
 Website Image Optimizer is a powerful Python script designed to convert images to the WebP format. It supports various image formats, including JPG, JPEG, PNG, GIF, TIFF, JFIF, and AVIF. The script can be used to convert your website's images to WebP format efficiently. 
 
 The conversion process significantly reduces the file size without compromising the image quality, resulting in quicker website load times and less bandwidth consumption.
 
-This repositorie came with a sample of images in "images_sample" folder. The original size of the images was 12.8 MB. After run the script and convert the images, the total size was reduced to 1.02MB, representing a significant reduction of **92%**.
+This repository comes with a sample of images in the 'images_sample' folder. The original size of the images was 12.8 MB. After running the script and converting the images, the total size was reduced to 1.02MB, representing a significant reduction of **92%**.
 
 ## Prerequisites
 To run the script, you need:
@@ -40,11 +43,11 @@ If you leave all console prompt questions blank, the default settings will be:
  If you're managing a website with a large number of images, optimizing them for web performance can make a huge difference in page load times and overall user experience
 
 ### Example 1
-* > Initial folder ./images_sample: 25 images, **12.8 MB**
+* > Initial Folder ./images_sample: 25 images, **12.8 MB**
 * > Converted Folder ./images_sample_cleaned: 25 images, **1.02 MB**
 
 ### Example 2
-* > Initial folder: 714 images, **181 MB**
+* > Initial Folder: 714 images, **181 MB**
 * > Converted Folder: 714 images, **23.3 MB** (All images converted to webp and resized to max 800px width)
 
 ### Single Image Examples
